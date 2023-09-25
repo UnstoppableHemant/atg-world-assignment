@@ -61,7 +61,7 @@ const Home = () => {
           <div className='col-lg-8 col-md-7 col-sm-12'>
             <Cards />
           </div>
-          <div className='col-lg-4 col-md-5 d-none d-sm-block ps-5'>
+          <div className='col-lg-4 col-md-5 d-none d-md-block ps-5'>
             <div className='ms-5 py-2 d-flex align-items-center gap-2 border border-2 border-top-0 border-end-0 border-start-0'>
               <IoLocationOutline className='fs-3' />
               <input className='border-0 header-searchbar bg-white fw-bold text-black w-100' type='search' value='Noida, India' disabled />
